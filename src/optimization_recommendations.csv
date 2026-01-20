@@ -1,0 +1,3 @@
+priority,category,action,impact,questions_affected
+HIGH,Consolidate Questions,"Merge 7 ""Pick 3"" questions into 1 ranked choice question","Reduce survey time by ~30%, simplify user experience",6
+MEDIUM,Remove Low-Value Questions,Consider removing 14 questions with low information value,"Streamline survey, focus on high-impact questions",14
