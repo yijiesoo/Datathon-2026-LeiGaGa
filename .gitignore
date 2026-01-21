@@ -1,2 +1,9 @@
-.DS_Store # ignore future .DS_Store files
-venv/.DS_Store
+# macOS system files
+.DS_Store
+
+# Python virtual environment
+venv/
+
+# Optional: Python cache
+__pycache__/
+*.pyc
